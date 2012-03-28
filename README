@@ -1,0 +1,8 @@
+compatible.m file contains function to make all images of same size which lateron fed as input for recognition.
+
+_input directory contains face images,resembles detected faces from haar classifier
+
+input.txt contained in the same directory defines region of image used for recognition
+
+_output directory contains output file defining recognition rate for each(320) faces contained in _input directory.NAN indicates below threshhold.
+note that first image is template or reference for recognition.
