@@ -1,3 +1,5 @@
+compatible file is useful if you have OpenTLD matlab implementation
+
 compatible.m file contains function to make all images of same size which lateron fed as input for recognition.
 
 _input directory contains face images,resembles detected faces from haar classifier
