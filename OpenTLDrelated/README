@@ -1,4 +1,0 @@
-this patch is valid only if you have OpenTLD cpp implementation
-
-functionality
-No need to select rectangular box mannually,face is selected as object of interest by default,as soon as you press 'r' from keyboard.
