@@ -1,0 +1,8 @@
+How to use this patch
+
+place simonface.patch in simon local git repo
+ 
+then cd to same directory and command
+git am --signoff < simonface.patch 
+
+recopile 
