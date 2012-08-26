@@ -1,3 +1,23 @@
 Face Recognition Implementation for Digikam
 
 OpenTLD is consolidated to one directory in here,face recognition app will be presented soon.
+
+Requirements
+OpenCV preferably latestone
+linux machine
+
+Try out codes:
+
+mkdir build
+cd build
+cmake ..
+make
+
+place images starting names from 0,1,2,3,4... should be place in build/bin/ directory and execute opentld
+
+./opentld
+
+press r and select region for recognition,and go on pressing any key to see object detection in consecutive frames,press q to exit.
+
+
+
